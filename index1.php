@@ -17,20 +17,23 @@
     <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
       <div class="navbar-nav">
         <a class="nav-link active" aria-current="page" href="index.php">Home</a>
-        <a class="nav-link" href="index2.php">Attendence</a>
+        <a class="nav-link" href="student.php">Student</a>
         <a class="nav-link" href="index3.php">Result</a>
-      
+        <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
       </div>
     </div>
   </div>
 </nav>
     <div class="container">
         <div class="row">
-            <div class="col col-12 col-sm-4 col-md-4 col-lg-4">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum obcaecati vero voluptatem beatae, consectetur voluptate at aliquam saepe commodi distinctio culpa maiores aperiam cupiditate quo veritatis earum, unde quaerat recusandae.</div>
-            <div class="col col-12 col-sm-4 col-md-4 col-lg-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus ipsum impedit voluptates ab labore sequi aspernatur delectus aliquam nemo, rerum totam earum expedita? Corporis incidunt, molestiae adipisci rem tempora voluptatibus.</div>
-            <div class="col col-12 col-sm-4 col-md-4 col-lg-4">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Maxime quidem expedita quod adipisci, quas ducimus in deleniti. Beatae impedit minus distinctio vitae harum deleniti animi voluptates ut dolore, fuga sit.</div>
+            <div class="col col-12 col-sm-6 col-md-6 col-lg-6">
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem doloribus praesentium, asperiores architecto optio aut consequuntur! Nesciunt architecto dolores maxime eius illum numquam? Ab ipsa commodi aperiam quos amet natus!
+            </div>
+            <div class="col col-12 col-sm-6 col-md-6 col-lg-6">
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure quidem, delectus voluptate quibusdam officiis animi incidunt ab molestiae quod corporis rem atque fugit sit blanditiis libero fugiat maiores deserunt at.
+            </div>
         </div>
     </div>
+    
 </body>
 </html>

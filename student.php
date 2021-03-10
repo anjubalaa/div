@@ -17,7 +17,7 @@
           <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav">
               <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="accordion.php">Home</a>
+                <a class="nav-link active" aria-current="page" href="index.php">Home</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="index2.php">Attendence</a>
@@ -32,6 +32,48 @@
           </div>
         </div>
       </nav>
+      <table class="table">
+        <tr>
+            <td>Movie Name</td>
+            <td><input type="text" class="form-control"></td>
+        </tr>
+        <tr>
+            <td>Actor</td>
+            <td><input type="text" class="form-control"></td>
+        </tr>
+        <tr>
+            <td>Actress</td>
+            <td><input type="text" class="form-control"></td>
+        </tr>
+        <tr>
+            <td>Director</td>
+            <td><input type="text" class="form-control"></td>
+        </tr>
+        <tr>
+            <td>Camera</td>
+            <td><input type="text" class="form-control"></td>
+        </tr>
+       <tr>
+           <td>Producer</td>
+           <td><input type="text" class="form-control"></td>
+       </tr>
+       <tr>
+        <td>Distributor</td>
+        <td><input type="text" class="form-control"></td>
+    </tr>
+    <tr>
+        <td>Year of release</td>
+        <td><input type="text" class="form-control"></td>
+    </tr>
+   <tr>
+       <td>Language</td>
+       <td><input type="text" class="form-control"></td>
+   </tr>
+       <tr>
+           <td></td>
+           <td><button class="btn btn-success">SUBMIT</button></td>
+       </tr>
+    </table>
       <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.bundle.min.js" integrity="sha384-b5kHyXgcpbZJO/tY9Ul7kGkf1S0CWuKcCD38l8YkeH8z8QjE0GmW1gYU5S9FOnJ0" crossorigin="anonymous"></script>
 </body>
 </html>

@@ -16,9 +16,9 @@
     </button>
     <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
       <div class="navbar-nav">
-        <a class="nav-link active" aria-current="page" href="accordion.php">Home</a>
+        <a class="nav-link active" aria-current="page" href="index.php">Home</a>
         <a class="nav-link" href="student.php">Student</a>
-        <a class="nav-link" href="index.PHP">Attendence</a>
+        <a class="nav-link" href="index1.PHP">Attendence</a>
         <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
       </div>
     </div>
